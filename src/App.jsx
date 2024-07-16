@@ -3,6 +3,7 @@ import Navbar from './Components/Navbar/Navbar'
 import Hero from './Components/Hero/Hero'
 import Card from './Components/Card/Card'
 import Sectionone from './Components/Sectionone/Sectionone'
+import Sectiontwo from './Components/Sectiontwo/Sectiontwo'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
     <Hero/>
     <Card/>
     <Sectionone/>
+    <Sectiontwo/>
     </>
   )
 }
