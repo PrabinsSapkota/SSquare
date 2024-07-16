@@ -1,0 +1,13 @@
+.seccond-nav ul{
+    color:#007A1C;  
+}
+.seccond-nav ul li{
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+.seccond-nav ul li:hover{
+    color:#007A1C;
+    background-color:rgb(216, 213, 213);
+    border-radius: 20px;
+}
